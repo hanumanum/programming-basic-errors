@@ -5,14 +5,20 @@
 
 .han-columns{
     text-align: center;
+    padding-bottom: 25px;
 }
 
 .han-row{
     margin: 0 auto;
+    text-align: center;
 }
 
 .messeges{
     text-align: center;
     font-size: 2em;
     margin-top:15px;
+}
+
+#google_translate_element {
+    margin-top: 14px;
 }
